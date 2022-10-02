@@ -1,6 +1,8 @@
 function Feed() {
     return (
-        <div>Feed</div>
+        <div>
+            <h1>HELLO WORLD</h1>
+        </div>
     )
 }
 

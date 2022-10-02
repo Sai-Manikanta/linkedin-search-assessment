@@ -8,7 +8,7 @@ function App() {
     return (
         <>
             <Header />
-            <Container fixed sx={{ padding: '20px', border: '1px solid #3366ff' }}>
+            <Container fixed sx={{ marginTop: '26px' }}>
                 <Routes>
                     <Route path="/" element={<Navigate to="/feed" />} />
                     <Route path="/feed" element={<Feed />} />

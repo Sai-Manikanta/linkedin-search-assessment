@@ -1,10 +1,12 @@
 import { Routes, Route, Navigate } from 'react-router-dom'
+import Header from './common/Header'
 import { Feed, Search, NotFound } from './pages'
+
 
 function App() {
     return (
         <>
-            <header>Header</header>
+            <Header />
             <Routes>
                 <Route path="/" element={<Navigate to="/feed" />} />
                 <Route path="/feed" element={<Feed />} />

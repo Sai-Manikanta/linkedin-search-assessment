@@ -66,7 +66,7 @@ function Header() {
                     </form>
                     <Stack direction="row" spacing={3} alignItems="center" sx={{ marginLeft: 'auto', display: { xs: 'none', md: 'flex' } }}>
                         <NavLink href="#" text="Home" icon={<Home />} />
-                        <NavLink href="#" text="My Network" icon={<PeopleAlt />} />
+                        <NavLink href="#" text="Network" icon={<PeopleAlt />} />
                         <NavLink href="#" text="Job" icon={<Work />} />
                         <NavLink href="#" text="Messaging" icon={<Message />} />
                         <NavLink href="#" text="Notifications" icon={<Notifications />} />

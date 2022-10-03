@@ -52,7 +52,7 @@ function CreatePost() {
                     Job
                 </Button>
                 <Button startIcon={<NewspaperIcon sx={{ color: 'orange' }} />} sx={{ flexGrow: 1, color: 'gray' }}>
-                    Write Article
+                    Article
                 </Button>
             </Stack>
         </Box>

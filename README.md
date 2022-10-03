@@ -6,4 +6,4 @@
  - MUI (Component Library)
  - Redux
 
- [https://assainment-by-preethi-rathinam.netlify.app/feed](https://assainment-by-preethi-rathinam.netlify.app/feed)
+ [https://assainment-by-preethi-rathinam.netlify.app](https://assainment-by-preethi-rathinam.netlify.app)

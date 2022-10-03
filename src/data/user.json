@@ -1,0 +1,54 @@
+{
+    "name": "Sai Manikanta Bandaru",
+    "profilePic": "https://media-exp1.licdn.com/dms/image/D5603AQF_L3YOBN7twA/profile-displayphoto-shrink_400_400/0/1664083675874?e=1670457600&v=beta&t=c2C3Ae4BHI8rMhGAftSqs4UtJ0IAKD5WUkfMUlmkge0",
+    "tagline": "Software Engineer with 1.3+ years of Experience In React JS, Redux, Javascript, CSS, HTML | Frontend developer",
+    "place": "Hyderabad, Telangana, India",
+    "banner": "https://media-exp1.licdn.com/dms/image/C5616AQGv_KTi-gGwVQ/profile-displaybackgroundimage-shrink_350_1400/0/1664121389199?e=1670457600&v=beta&t=3ONabMNglZwgmKL5EIrXRZqUSbA0rARvR5Bn9KhFSNs",
+    "connections": 1,
+    "about": "Frontend Developer with 4.2 Years of Coding knowledge and 1.3+ years of professional experiences in Web Designing and User Interface Development.",
+    "experience": [
+        {
+            "role": "Frontend Developer",
+            "comapanyPic": "https://media-exp1.licdn.com/dms/image/C4E0BAQElD4L72m7Yxw/company-logo_100_100/0/1594014879793?e=1672876800&v=beta&t=NK_RPVQQ5efbaMTy6r90isHtfd0y9dYmREQ_51fK_SE",
+            "comapanyName": "SF Consultant · Full-time",
+            "experience": "Nov 2021 - Present · 1 yr",
+            "location": "Bhopal, Madhya Pradesh",
+            "jobDescription": "Skills: Bootstrap · React.js · Redux · JavaScript · Cascading Style Sheets (CSS) · HTML · Git · GitHub"
+        },
+        {
+            "role": "Full Stack Developer",
+            "comapanyPic": "https://media-exp1.licdn.com/dms/image/C560BAQGyRpLJv0dkpQ/company-logo_100_100/0/1618071034906?e=1672876800&v=beta&t=kEABRE3W0EmVqC0JVJVLraaALHWNrMHWVZVQuGOIHWo",
+            "comapanyName": "VM Online Portal · Internship",
+            "experience": "Aug 2021 - Nov 2021 · 4 mos",
+            "location": "Andhra Pradesh, India",
+            "jobDescription": "Skills: Node.js · Bootstrap · Express.js · MongoDB · Redux.js · React.js · JavaScript · Cascading Style Sheets (CSS) · HTML · Git · GitHub"
+        }
+    ],
+    "education": [
+        {
+            "institute": "Osmania UniversityOsmania University",
+            "institutePic": "https://media-exp1.licdn.com/dms/image/C4E0BAQGWO2PFCtwq6Q/company-logo_100_100/0/1519894917196?e=1672876800&v=beta&t=0w5MyDnQlB0dRWaFNuX906DHUCZ8YZOuzTxxLXR-pvk",
+            "experience": "Jul 2022",
+            "location": "Bhopal, Madhya Pradesh",
+            "grade": "8.03",
+            "educationDescription": "Bachelor of Commerce - BCom, Computer Programming, Specific ApplicationsBachelor of Commerce - BCom, Computer Programming, Specific Applications"
+        },
+        {
+            "institute": "GOVT. JR. COLLEGE , HAYATHNAGARGOVT. JR. COLLEGE , HAYATHNAGAR",
+            "institutePic": "",
+            "experience": "Jun 2015 - Apr 2017",
+            "location": "Hayathnagar, Telangana",
+            "grade": "64.3%",
+            "educationDescription": "Intermediate, M.P.CIntermediate, M.P.C"
+        },
+        {
+            "institute": "ZPHS PEDDA AMBERPETZPHS PEDDA AMBERPET",
+            "institutePic": "",
+            "experience": "Jun 2014 - Apr 2015",
+            "location": "Pedda amberpet, Telangana",
+            "grade": "6.8",
+            "educationDescription": "S.S.C"
+        }
+    ],
+    "hobbies": "Cricket, listening music and drawing"
+}

@@ -1,0 +1,118 @@
+[
+    {
+        "name": "Venkatesh Mogili",
+        "profilePic": "https://media-exp1.licdn.com/dms/image/C5603AQEMLNNmr0X50Q/profile-displayphoto-shrink_400_400/0/1612945252214?e=1670457600&v=beta&t=P2X7-LUVfWqHExqC48cyipNLctXRJW9319q1yJtqJf0",
+        "tagline": "Talks about #nodejs, #reactjs",
+        "place": "East Godavari, Andhra Pradesh, India ",
+        "banner": "https://media-exp1.licdn.com/dms/image/C5616AQE19MmRcJu6zA/profile-displaybackgroundimage-shrink_350_1400/0/1612256767748?e=1670457600&v=beta&t=paOsM55-uBaZ34RLctrPszBqD00PTWcxeW-WL2pWzJE",
+        "connections": 644,
+        "about": "I'm a Founder of VM Online Training and a Full Stack Web and Mobile App Developer with 4+ years of experience. I'm a YouTuber, Online Instructor, Provided training for 300+ students within a span of 2 months. 7+ full courses created, Made one course for Udemy, Got best performer award within 2 months of joining in Xelpmoc as Intern, Won StackHack1.0 Challenge conducted in HackerEarth , Delivered a messenger app using React Native and Node within 4 days for US Client as a freelancing project, having 80+ github repositories, worked in various start-up companies till now and Looking forward to work in many interesting and challenging projects.",
+        "experience": [
+            {
+                "role": "Software Engineer",
+                "comapanyPic": "https://media-exp1.licdn.com/dms/image/C510BAQEbQ1pSp1779A/company-logo_100_100/0/1537274274029?e=1672876800&v=beta&t=fHO3BdMWwdPondsKlFPuyny6LtXpdicXLYKhv_XovSw",
+                "comapanyName": "doodleblue Innovations · Full-time",
+                "experience": "Dec 2020 - Present · 1 yr 11 mos",
+                "location": "Chennai, Tamil Nadu, India",
+                "jobDescription": ""
+            },
+            {
+                "role": "Software Engineer",
+                "comapanyPic": "https://media-exp1.licdn.com/dms/image/C510BAQH54snt6Mn5VA/company-logo_100_100/0/1561986846203?e=1672876800&v=beta&t=hSruD_YoW9kpADDzwHBCIjyr7EzsiP-J4oegp12-r0o",
+                "comapanyName": "AiKnow Labs · Full-time",
+                "experience": "Jul 2020 - Oct 2020 · 4 mos",
+                "location": "Remote Work",
+                "jobDescription": ""
+            },
+            {
+                "role": "Full Stack Developer",
+                "comapanyPic": "https://media-exp1.licdn.com/dms/image/C560BAQHKCdk8DsPDGA/company-logo_100_100/0/1633066366115?e=1672876800&v=beta&t=7BzxMGatyvZTUBLK3nl2_DOJ2P2UbCBikAFv9a34Ktw",
+                "comapanyName": "Xelpmoc Design & Tech Limited · Internship",
+                "experience": "Dec 2019 - Jul 2020 · 8 mos",
+                "location": "Bengaluru, Karnataka",
+                "jobDescription": ""
+            }
+        ],
+        "education": [
+            {
+                "institute": "RAJIV GANDHI UNIVERSITY OF KNOWLEDGE TECHNOLOGIESRAJIV GANDHI UNIVERSITY OF KNOWLEDGE TECHNOLOGIES Bachelor of Technology (B.Tech.)",
+                "institutePic": "",
+                "experience": "2015 - 2019",
+                "location": "",
+                "grade": "7.57",
+                "educationDescription": "Bachelor of Commerce - BCom, Computer Programming, Specific ApplicationsBachelor of Commerce - BCom, Computer Programming, Specific Applications"
+            },
+            {
+                "institute": "RAJIV GANDHI UNIVERSITY OF KNOWLEDGE TECHNOLOGIESRAJIV GANDHI UNIVERSITY OF KNOWLEDGE TECHNOLOGIES Pre University Course",
+                "institutePic": "",
+                "experience": "2013 - 2015",
+                "location": "",
+                "grade": "8.35%",
+                "educationDescription": "MPCPre University Course, MPC"
+            },
+            {
+                "institute": "Z.P.P.High SchoolZ.P.P.High School",
+                "institutePic": "",
+                "experience": "2008 - 2013",
+                "location": "",
+                "grade": "10.0",
+                "educationDescription": "10th Class"
+            }
+        ],
+        "hobbies": "Playig video Games and watching movies."
+    },
+    {
+        "name": "Saurabh Tripathi",
+        "profilePic": "https://media-exp1.licdn.com/dms/image/C4E03AQEF8J1-FUp2sQ/profile-displayphoto-shrink_400_400/0/1628850195350?e=1670457600&v=beta&t=wJtxyllJiYY_3TwEJkTTUzGLABBLtKO1sSBEl_8c_b8",
+        "tagline": "Digital Marketer with 5 years of Experience",
+        "place": "Bhopal, Madhya Pradesh, India",
+        "banner": "https://media-exp1.licdn.com/dms/image/C4D16AQHANg3ehXiB3A/profile-displaybackgroundimage-shrink_350_1400/0/1649765074353?e=1670457600&v=beta&t=zkPsUTLguEO32p-DJKYhMBX_vmP0p6cE6Sgvnk3bqIY",
+        "connections": 500,
+        "about": "Google, Microsoft and Hubspot certified digital marketing manager with over 4 years of experience in marketing seeking to apply knowledge of digital trends and innovations to guide visionary campaign development.",
+        "experience": [
+            {
+                "role": "Digital Marketer",
+                "comapanyPic": "https://media-exp1.licdn.com/dms/image/C4E0BAQElD4L72m7Yxw/company-logo_100_100/0/1594014879793?e=1672876800&v=beta&t=NK_RPVQQ5efbaMTy6r90isHtfd0y9dYmREQ_51fK_SE",
+                "comapanyName": "SF Consultant · Full-time",
+                "experience": "Dec 2019 - Present · 2 yrs 11 mos",
+                "location": "Bhopal, Madhya Pradesh",
+                "jobDescription": "Skills: Project Management · Digital Marketing · Search Engine Optimization (SEO) · WordPress · Social Media Marketing · Google Ads"
+            },
+            {
+                "role": "Social Media Consultant",
+                "comapanyPic": "https://media-exp1.licdn.com/dms/image/C4D0BAQGdb2u8Lc0sVQ/company-logo_100_100/0/1663130724847?e=1672876800&v=beta&t=ie_61S_3HyrDlYVYy5cYiqFOgueNZH9fFwAXqnhDpns",
+                "comapanyName": "Silver Touch Technologies Ltd",
+                "experience": "Aug 2018 - Feb 2019 · 7 mos",
+                "location": "Bhopal Area, India",
+                "jobDescription": "Major Clients: Govt. of Madhya Pradesh, Govt. of Haryana"
+            }
+        ],
+        "education": [
+            {
+                "institute": "Indian Institute Of Business Management And StudiesIndian Institute Of Business Management And Studies",
+                "institutePic": "https://media-exp1.licdn.com/dms/image/C4E0BAQHKKwn5yar4Tw/company-logo_100_100/0/1616408132095?e=1672876800&v=beta&t=J-9gVXbVoQ3U7LVxzok0U_N4GxqgTCEUQTuI5WfikHY",
+                "experience": "Aug 2000 - Aug 2022",
+                "location": "Bhopal, Madhya Pradesh",
+                "grade": "A",
+                "educationDescription": "Executive Master's Program in Business Administration, Digital Marketing ManagementExecutive Master's Program in Business Administration, Digital Marketing Management"
+            },
+            {
+                "institute": "Madhav Institute of Technology and Science, GwaliorMadhav Institute of Technology and Science, Gwalior",
+                "institutePic": "https://media-exp1.licdn.com/dms/image/C4D0BAQFdi3HnA11CQQ/company-logo_100_100/0/1519863050990?e=1672876800&v=beta&t=_Nc_c3iSTGTk0ozMEyqxbbDz1jBPz70cNLdj0bF2mio",
+                "experience": "Aug 2014 - Aug 2018",
+                "location": "Bhopal",
+                "grade": "64.3%",
+                "educationDescription": "Bachelor of Engineering (BE), Computer Software EngineeringBachelor of Engineering (BE), Computer Software Engineering"
+            },
+            {
+                "institute": "Saraswati Higher Secondary School BarhiSaraswati Higher Secondary School Barhi",
+                "institutePic": "",
+                "experience": "2001 - 2013",
+                "location": "",
+                "grade": "",
+                "educationDescription": ""
+            }
+        ],
+        "hobbies": "Travelling and Reading books."
+    }
+]

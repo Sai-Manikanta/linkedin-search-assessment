@@ -1,0 +1,26 @@
+[
+    {
+        "_id": 1,
+        "title": "Tata Consultancy Service",
+        "postedOn": "1y",
+        "postBeforeDescription": "Indian IT sector has been on a roll throughout the pandemic. Global digital transformation has helped Indian IT cos achieve record revenues and has resulted in a tech talent boom.",
+        "profilePic": "https://media-exp1.licdn.com/dms/image/C4D0BAQFPP1NRP4F5dQ/company-logo_100_100/0/1656657976685?e=1672876800&v=beta&t=6fBdVljhmLVIcJsgQs8EmS8hlPH1K6rvc5vMREnKsJA",
+        "postUrl": "https://media-exp1.licdn.com/dms/image/C4E22AQHzZ7AqbgPz-w/feedshare-shrink_800/0/1634714946159?e=1667433600&v=beta&t=Glagj2sjC0yedEvwWusXT97AAgniv-zDwb12GI-e00A"
+    },
+    {
+        "_id": 2,
+        "title": "Chess",
+        "postedOn": "2d",
+        "postAfterDescription": "Stephen Dracup, COO at Chess, reviews three main technology areas you can focus on to improve your business sustainability easily - Microsoft, Device Leasing and Recycling, and FTTP.",
+        "profilePic": "https://media-exp1.licdn.com/dms/image/C4D0BAQG8S6ZTY7gAjg/company-logo_100_100/0/1519886171339?e=1672876800&v=beta&t=_b6eWIsyFXA3AgDLWzTkm_5jI35Mr8PIkSlpFKwyTQk",
+        "postUrl": "https://media-exp1.licdn.com/dms/image/sync/C4E22AQG1pVJjyTsD7A/feedshare-shrink_800/0/1664539374334?e=1667433600&v=beta&t=ONlHQJchvA1OyOdklbuDi74fqtmuylIvtCsEHYOR20Q"
+    },
+    {
+        "_id": 3,
+        "title": "Tata Consultancy Service",
+        "postedOn": "1d",
+        "postBeforeDescription": "We are thrilled to be a part of the India Mobile Congress 2022 as a Gold Partner to demonstrate 3 dimensional end-to-end telecom capabilities of Infrastructure, Services, and Next-Gen Applications.",
+        "profilePic": "https://media-exp1.licdn.com/dms/image/C4D0BAQFPP1NRP4F5dQ/company-logo_100_100/0/1656657976685?e=1672876800&v=beta&t=6fBdVljhmLVIcJsgQs8EmS8hlPH1K6rvc5vMREnKsJA",
+        "postUrl": "https://media-exp1.licdn.com/dms/image/C4D22AQE1qPUSh1iPWQ/feedshare-shrink_800/0/1664636535661?e=1667433600&v=beta&t=xBFHkWsIA1UOsc8xIgew0yyhwXPQ3cacxyn096bAv2w"
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "name": "TCS",
+        "profilePic": "https://media-exp1.licdn.com/dms/image/C4D0BAQFPP1NRP4F5dQ/company-logo_200_200/0/1656657976685?e=1672876800&v=beta&t=FDgabaLT0_hL_bYh-g1WlD2mg64IxhSpE1t4GlQBi6s",
+        "tagline": "Tata Consultancy Services",
+        "banner": "https://media-exp1.licdn.com/dms/image/D4D3DAQEEgtfmTLl0Sg/image-scale_191_1128/0/1661254945899?e=1665388800&v=beta&t=GvyikrI07WLTdo_ouUMCFkFA6ABeriraW0erwJpfnXg",
+        "place": "Hyderabad"
+    },
+    {
+        "name": "Bangalore International Airport Ltd",
+        "profilePic": "https://media-exp1.licdn.com/dms/image/C510BAQHmNi1OGcYgew/company-logo_200_200/0/1522060306487?e=1672876800&v=beta&t=D7f_I30Zq9N0N6wZ5m88npXieHH3ki3FhIiuulrWq8A",
+        "tagline": "Aviation and Aerospace Component Manufacturing",
+        "banner": "https://media-exp1.licdn.com/dms/image/C4D1BAQFr3QcWOQjUqg/company-background_10000/0/1584023939534?e=1665392400&v=beta&t=b2A7MZV4rUqTp4gceBNz5NEpJFNDZP1bNz6hgu9GylM",
+        "place": "Bangalore"
+    },
+    {
+        "name": "Chess",
+        "profilePic": "https://media-exp1.licdn.com/dms/image/C4D0BAQG8S6ZTY7gAjg/company-logo_200_200/0/1519886171339?e=1672876800&v=beta&t=jEjm_UaxcWDZ4buxExHnhpT9fIpJVxCx2_AMP4SYzEY",
+        "tagline": "IT Services and IT Consulting",
+        "banner": "https://media-exp1.licdn.com/dms/image/D4E1BAQHEHsUhwCuGEw/company-background_10000/0/1659352551710?e=1665392400&v=beta&t=cX6K8fQbn28dRmZODVyJ3288C-K2lkIoYY_CrvjFNF8",
+        "place": "Alderley Edge, Cheshire"
+    }
+]
